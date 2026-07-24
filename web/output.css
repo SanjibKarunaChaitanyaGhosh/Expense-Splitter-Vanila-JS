@@ -371,7 +371,7 @@
   border: 2px solid rgb(0, 0, 0,.2);
 }
 .card-shadow {
-  box-shadow: 0px 10px 10px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 5px 10px 5px black;
 }
 @property --tw-space-y-reverse {
   syntax: "*";
